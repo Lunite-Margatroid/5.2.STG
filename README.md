@@ -8,6 +8,6 @@
 
 但不得不说，这个小程序让我的编程能力进步了不少。
 
-IDE:visual Studio
+IDE:Visual Studio 2022
 
 第三方库:EasyX
